@@ -42,6 +42,11 @@ model complexity.
 Analytical steps were guided by business questions around demand drivers,
 renewable energy adoption, and peak-load management
 ## Key Insights
+- Renewable energy accounted for approximately **20%** of total household energy consumption, which shows significant potential to increase adoption.
+- Energy consumption was consistently higher during weekends and holidays compared to weekdays, reflecting increased residential demand.
+- Peak-hour consumption was materially higher, while renewable usage remained relatively low across all time periods.
+- Temperature showed a moderately strong positive relationship with energy consumption, explaining approximately **48.5%** of demand variation.
+- Energy demand increased by roughly **2 units for every 1°C rise** in temperature.
 ## Business Implications
 ## Tools
 ## Notes
