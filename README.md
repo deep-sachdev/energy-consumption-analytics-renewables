@@ -44,7 +44,7 @@ renewable energy adoption, and peak-load management
 ## Key Insights
 - Renewable energy accounted for approximately **20%** of total household energy consumption, which shows significant potential to increase adoption.
 
-![Renewable vs Total Energy Consumption](visuals/renewable_vs_total energy_split.png)
+![Renewable vs Total Energy Consumption](visuals/renewable_vs_total_energy_split.png)
 - Energy consumption was consistently higher during weekends and holidays compared to weekdays, reflecting increased residential demand.
 ![Weekday vs Weekend Consumption](visuals/weekend_vs_weekday.png)
 - Peak-hour consumption was materially higher, while renewable usage remained relatively low across all time periods
