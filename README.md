@@ -48,7 +48,7 @@ renewable energy adoption, and peak-load management
 ![Weekday vs Weekend Consumption](visuals/weekend_vs_weekday.png)
 - Peak-hour consumption was materially higher, while renewable usage remained relatively low across all time periods
 - Temperature showed a moderately strong positive relationship with energy consumption, explaining approximately **48.5%** of demand variation
-- ![Temperature vs Energy Regression](visuals/temperature_regression.png)
+![Temperature vs Energy Regression](visuals/temperature_regression.png)
 - Energy demand increased by roughly **2 units for every 1°C rise** in temperature
 ## Business Implications
 - Renewable energy offerings could be targeted more aggressively during high-demand periods such as weekends and peak hours.
