@@ -43,12 +43,12 @@ Analytical steps were guided by business questions around demand drivers,
 renewable energy adoption, and peak-load management
 ## Key Insights
 - Renewable energy accounted for approximately **20%** of total household energy consumption, which shows significant potential to increase adoption.
-![Renewable vs Total Energy Consumption](visuals/Renewable vs total energy split.png)
+![Renewable vs Total Energy Consumption](visuals/renewable_vs_total energy_split.png)
 - Energy consumption was consistently higher during weekends and holidays compared to weekdays, reflecting increased residential demand.
 ![Weekday vs Weekend Consumption](visuals/weekend_vs_weekday.png)
 - Peak-hour consumption was materially higher, while renewable usage remained relatively low across all time periods.
 - Temperature showed a moderately strong positive relationship with energy consumption, explaining approximately **48.5%** of demand variation.
-![Temperature vs Energy Regression](visuals/Temperature vs energy scatter with regression line.png)
+![Temperature vs Energy Regression](visuals/temperature_vs energy_scatter_with_regression_line.png)
 - Energy demand increased by roughly **2 units for every 1°C rise** in temperature.
 ## Business Implications
 - Renewable energy offerings could be targeted more aggressively during high-demand periods such as weekends and peak hours.
