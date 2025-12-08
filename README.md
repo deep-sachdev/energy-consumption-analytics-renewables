@@ -28,6 +28,19 @@ The data represents a short time window (January–February) and is used to
 explore consumption patterns rather than long-term seasonality.
 Data source: Public Kaggle dataset on residential energy consumption (https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction/data)
 ## Approach
+The analysis was carried out using a structured analytics workflow:
+
+- Data cleaning and preparation to ensure consistency and usability
+- Descriptive analysis to identify consumption patterns and behavioural differences
+- Comparative analysis across weekdays, weekends, and peak vs off-peak periods
+- Correlation analysis between temperature and energy consumption
+- Linear regression modelling to estimate temperature-driven demand
+
+The focus was on clarity, interpretability, and business relevance rather than
+model complexity.
+
+Analytical steps were guided by business questions around demand drivers,
+renewable energy adoption, and peak-load management
 ## Key Insights
 ## Business Implications
 ## Tools
