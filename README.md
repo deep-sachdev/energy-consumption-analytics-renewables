@@ -59,3 +59,6 @@ renewable energy adoption, and peak-load management
   - Linear regression using Analysis ToolPak
   - Visual analysis via charts
 ## Notes
+This project is presented as a professional analytics case study, focused on
+business insight, decision support, and clear communication of findings using
+structured analytical methods and real-world datasets.
