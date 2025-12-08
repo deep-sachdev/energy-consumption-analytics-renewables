@@ -48,5 +48,9 @@ renewable energy adoption, and peak-load management
 - Temperature showed a moderately strong positive relationship with energy consumption, explaining approximately **48.5%** of demand variation.
 - Energy demand increased by roughly **2 units for every 1°C rise** in temperature.
 ## Business Implications
+- Renewable energy offerings could be targeted more aggressively during high-demand periods such as weekends and peak hours.
+- Temperature-based demand forecasting can support short-term operational planning and capacity management.
+- Smart-meter and time-of-use data enable pricing and incentive strategies that encourage load shifting and renewable usage.
+- Short-term demand insights can inform longer-term investment and infrastructure planning for renewable energy assets.
 ## Tools
 ## Notes
