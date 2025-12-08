@@ -53,4 +53,9 @@ renewable energy adoption, and peak-load management
 - Smart-meter and time-of-use data enable pricing and incentive strategies that encourage load shifting and renewable usage.
 - Short-term demand insights can inform longer-term investment and infrastructure planning for renewable energy assets.
 ## Tools
+- Microsoft Excel
+  - Data cleaning and preparation
+  - Pivot-table based descriptive analysis
+  - Linear regression using Analysis ToolPak
+  - Visual analysis via charts
 ## Notes
