@@ -46,7 +46,9 @@ renewable energy adoption, and peak-load management
 
 ![Renewable vs Total Energy Consumption](visuals/renewable_vs_total_energy_split.png)
 - Energy consumption was consistently higher during weekends and holidays compared to weekdays, reflecting increased residential demand.
+
 ![Weekday vs Weekend Consumption](visuals/weekend_vs_weekday.png)
+
 - Average household energy consumption is only slightly higher during peak hours compared to off-peak periods, indicating that peak-load pressures are not driven by sustained increases in average daily usage.
 ![peak vs off_peak](visuals/peak_vs_off_peak.png)
 - Renewable energy usage remains consistently low and largely unchanged across both peak and off-peak hours, suggesting limited alignment between renewable supply and periods of highest demand.
@@ -54,7 +56,7 @@ renewable energy adoption, and peak-load management
 - Temperature showed a moderately strong positive relationship with energy consumption, explaining approximately **48.5%** of demand variation
 
 ![Temperature vs Energy Regression](visuals/temperature_regression.png)
-- Energy demand increased by roughly **2 units for every 1°C rise** in temperature
+- Energy demand increased by approximately **2 units for every 1°C rise**, which indicates that temperature is a meaningful short-term demand driver.
 ## Business Implications
 - Renewable energy offerings could be targeted more aggressively during high-demand periods such as weekends and peak hours.
 - Temperature-based demand forecasting can support short-term operational planning and capacity management.
