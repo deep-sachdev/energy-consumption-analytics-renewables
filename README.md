@@ -64,10 +64,11 @@ renewable energy adoption, and peak-load management
 
 - Energy demand increased by approximately **2 units for every 1°C rise**, which indicates that temperature is a meaningful short-term demand driver.
 ## Business Implications
-- Renewable energy offerings could be targeted more aggressively during high-demand periods such as weekends and peak hours.
-- Temperature-based demand forecasting can support short-term operational planning and capacity management.
-- Smart-meter and time-of-use data enable pricing and incentive strategies that encourage load shifting and renewable usage.
-- Short-term demand insights can inform longer-term investment and infrastructure planning for renewable energy assets.
+- Renewable energy currently represents ~20% of total household consumption, which shows a substantial adoption gap and a clear opportunity to expand renewable penetration through targeted offerings
+- Peak and weekend demand management should focus less on average consumption differences and more on short-duration demand spikes, suggesting that time-of-use pricing and load-shifting incentives may be more effective than capacity-led solutions.
+- Temperature-driven demand explains approximately 48.5% of observed variation, which supports the use of temperature-based forecasting for short-term operational planning and capacity management.
+- An approximate increase of 2 energy units per 1°C rise provides a practical forecasting input that can be embedded into operational planning and demand-response strategies.
+- Short-term consumption insights from smart-meter and time-of-use data can inform longer-term investment and infrastructure planning for renewable energy assets by aligning supply expansion with demand drivers.
 ## Tools
 - Microsoft Excel
   - Data cleaning and preparation
