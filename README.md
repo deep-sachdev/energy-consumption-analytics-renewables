@@ -1,5 +1,7 @@
 # energy-consumption-analytics-renewables
 Business analytics case study analysing residential energy consumption to support renewable energy strategy and demand forecasting
+**Tools:** Excel | Time-Series Analysis | Regression  
+**Focus:** Demand patterns, peak vs off-peak behaviour, renewable usage
 # Energy Consumption Analytics for Renewable Energy Strategy
 ## Business Context
 Renewable energy providers face increasing pressure to forecast demand accurately,
